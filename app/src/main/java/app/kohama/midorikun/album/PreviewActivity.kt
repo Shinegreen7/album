@@ -18,10 +18,10 @@ class PreviewActivity : AppCompatActivity() {
 
         titleText.text = displayTitle
 
-        backButton.setOnClickListener {
-
-            finish()
-
-        }
+//        backButton.setOnClickListener {
+//
+//            finish()
+//
+//        }
     }
 }
